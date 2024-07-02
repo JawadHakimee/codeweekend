@@ -1,0 +1,36 @@
+
+
+.Chart{
+    padding-top: 20px;
+    margin: 100px auto;
+    width: 27%;
+    height: 350px;
+    /* background-color: red; */
+    box-shadow: 0px 3px 5px #ccc;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.Chart img{
+    width: 50%;
+    height: 50%;
+    
+}
+
+.socialIcons {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 90px;
+}
+  
+.socialIcons a {
+    display: inline-block;
+    font-size: 18px;
+    color: gray;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+  
+.socialIcons a:hover {
+    color: #ccc;
+}
