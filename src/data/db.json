@@ -1,0 +1,99 @@
+{
+    
+    "data":{
+        "status": true,
+        "massage": "Success",
+        "data":[
+            [
+
+                {
+                    "id":1,
+                    "name":"Karim Bakhsh",
+                    "position":"Instractur",
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwcfIYlJHiojTCgbaumajb47lp6rEO6t9cw&usqp=CAU", 
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                    
+                },
+                {
+                    "id":2,
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
+                    "name":"Jamshid Rasa",
+                    "position":"CEO of Code Weekend",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                },
+                {
+                    "id":3,
+                    "name":"Fuzia Kargar",
+                    "position":"Instractur",
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwn4_oZkDk7wIyKGqIY3LBaKNvaWxm5Nguww&usqp=CAU",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                },
+                {
+                    "id":4,
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
+                    "name":"Suliman Hakimi",
+                    "position":"Web Developer",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                },
+                {
+                    "id":5,
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
+                    "name":"Jawad Hakimi",
+                    "position":"Web Developer",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                },
+                {
+                    "id":6,
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
+                    "name":"Elhama Salah",
+                    "position":"Web Developer",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                },
+                {
+                    "id":7,
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
+                    "name":"Hemat Waziri",
+                    "position":"Web Developer",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                },
+                {
+                    "id":8,
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
+                    "name":"Khatera Kahir",
+                    "position":"Web Developer",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                },
+                {
+                    "id":9,
+                    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
+                    "name":"Fatima Najfizada",
+                    "position":"Web Developer",
+                    "facebookUrl":"#",
+                    "twitterUrl":"#",
+                    "instagramUrl":"#"
+                }
+            
+            ]
+        ]
+    }
+
+}
+
+
+
