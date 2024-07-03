@@ -11,15 +11,15 @@
                     "name":"Karim Bakhsh",
                     "position":"Instractur",
                     "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwcfIYlJHiojTCgbaumajb47lp6rEO6t9cw&usqp=CAU", 
-                    "facebookUrl":"#",
-                    "twitterUrl":"#",
+                    "facebookUrl":"https://monica.im/home",
+                    "twitterUrl":"https://yagankar.com/projects/application-developer",
                     "instagramUrl":"#"
                     
                 },
                 {
                     "id":2,
                     "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
-                    "name":"Jamshid Rasa",
+                    "name":"Jamshid Hashimi",
                     "position":"CEO of Code Weekend",
                     "facebookUrl":"#",
                     "twitterUrl":"#",
@@ -73,7 +73,7 @@
                 {
                     "id":8,
                     "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9s4bsHdUJgr5gJAjqNbUBj-EwHPtAb2cVbqBDqscmsj926dJ7jX7BGZDjSHNsQgAh7c&usqp=CAU" ,
-                    "name":"Khatera Kahir",
+                    "name":"Khatera Rezaie",
                     "position":"Web Developer",
                     "facebookUrl":"#",
                     "twitterUrl":"#",

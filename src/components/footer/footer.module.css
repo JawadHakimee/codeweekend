@@ -32,12 +32,14 @@
     list-style: none;
     padding: 0;
 }
-.socialIcons {
-    display: flex;
-    justify-content: flex-start;
+
+
+.socialIcon {
+    padding-right: 55px;
+    color: black;
 }
   
-.socialIcons a {
+.socialIcon a {
     display: inline-block;
     margin-right: 10px;
     font-size: 18px;
@@ -46,15 +48,10 @@
     transition: color 0.3s ease;
 }
   
-.socialIcons a:hover {
+.socialIcon a:hover {
     color: #ccc;
 }
-.footerBottom {
-    background-color: #222;
-    padding: 10px 20px;
-    text-align: center;
-    font-size: 14px;
-}
+
 
 
   

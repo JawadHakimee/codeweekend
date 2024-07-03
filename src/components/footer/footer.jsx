@@ -1,5 +1,8 @@
 import styled from './footer.module.css'
 import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebookF, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons'
+
 
 
 
@@ -23,23 +26,21 @@ function footer(){
             </div>
             <div className={styled.footerSection}>
               <h3>Follow Us</h3>
-              <div className={styled.socialIcons}>
-                <a href="#" className="social-icon">
-                  <i className="fab fa-facebook-f"></i>
-                </a>
-                <a href="#" className={styled.socialIcons}>
-                  <i className="fab fa-twitter"></i>
-                </a>
-                <a href="#" className={styled.socialIcons}>
-                  <i className="fab fa-instagram"></i>
-                </a>
-              </div>
+              <a href='google.com'  target="_blank" rel="noopener noreferrer" className={styled.socialIcon}>
+                <FontAwesomeIcon icon={faFacebookF} />
+              </a>
+              <a href='google.com' target="_blank" rel="noopener noreferrer" className={styled.socialIcon}>
+                <FontAwesomeIcon icon={faTwitter} />
+              </a>
+              <a href='google.com' target="_blank" rel="noopener noreferrer" className={styled.socialIcon}>
+                <FontAwesomeIcon icon={faInstagram} />
+              </a>
+              <p>&copy; 2024 Example Company. All rights reserved.</p>
             </div>
-          </div>
-          <div className={styled.footerBottom}>
-            <p>&copy; 2024 Example Company. All rights reserved.</p>
-          </div>
           
+            
+          
+        </div>  
         </footer>
       );
     };

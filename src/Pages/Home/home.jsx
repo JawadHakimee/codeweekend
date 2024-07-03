@@ -6,6 +6,7 @@ import Footer from '../../components/footer/footer'
 import React from 'react'
 
 
+
 function Home(){
 
     const [data, setData] = useState([])

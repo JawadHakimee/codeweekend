@@ -1,4 +1,5 @@
 import styled from './test.module.css'
+import { Link } from 'react-router-dom'
 export default function Navbar(props){
 
     return (
@@ -7,10 +8,10 @@ export default function Navbar(props){
             <div className={styled.Container}>
                 <ul className={styled.navMenu}>
                 <h2>Code Weekend Members 2024</h2>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><Link to="#">Home</Link></li>
+                    <li><Link to="/about">About</Link></li>
+                    <li><a href="google.com">Services</a></li>
+                    <li><a href="google.com">Contact</a></li>
                 </ul>
             </div>
             </nav>

@@ -19,8 +19,8 @@
 
 .socialIcons {
     display: flex;
-    justify-content: flex-start;
-    padding-left: 90px;
+    padding-left: 65px;
+    color: red;
 }
   
 .socialIcons a {
