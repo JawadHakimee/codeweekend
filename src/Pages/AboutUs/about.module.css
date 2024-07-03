@@ -1,0 +1,66 @@
+.acwContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    font-family: 'Roboto', sans-serif;
+}
+  
+.acwTitle {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #1E90FF;
+}
+  
+.acwSectionTitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #2C3E50;
+  }
+  
+.acwDescription {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    color: #7F8C8D;
+}
+  
+.acwInitiativesList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+.acwInitiativeItem {
+    margin-bottom: 40px;
+}
+  
+.acwInitiativeTitle {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #2980B9;
+}
+  
+.acwInitiativeDescription {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #7F8C8D;
+}
+  
+.acwCta {
+    display: inline-block;
+    background-color: #1E90FF;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+  
+.acwCta:hover {
+    background-color: #1874CD;
+}
+  

@@ -1,0 +1,80 @@
+.contactContainer {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    font-family: 'Roboto', sans-serif;
+}
+  
+.contactTitle {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #1E90FF;
+}
+
+  
+.contactSectionTitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #2C3E50;
+}
+
+.contactDetail {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #7F8C8D;
+}
+  
+.contactDetail i {
+    margin-right: 10px;
+    color: #1E90FF;
+}
+  
+.contactDetail a {
+    color: #7F8C8D;
+    text-decoration: none;
+}
+  
+.contactDetail a:hover {
+    color: #1E90FF;
+}
+  
+.formGroup {
+    margin-bottom: 20px;
+}
+  
+.formGroup label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #2C3E50;
+}
+  
+.formGroup input,
+.formGroup textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+  
+.contactSubmit {
+    display: block;
+    background-color: #1E90FF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+.contactSubmit:hover {
+    background-color: #1874CD;
+}
+  
