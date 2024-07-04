@@ -21,7 +21,7 @@ function Contact(){
                 </p>
                 <p className={styled.contactDetail}>
                     <i className="fas fa-phone"></i>
-                    <a href="tel:+770000000">+1 (234) 567-890</a>
+                    <a href="tel:+770000000">+1 7000000000</a>
                 </p>
                 <p className={styled.contactDetail}>
                     <i className="fas fa-map-marker-alt"></i>
