@@ -13,7 +13,7 @@ function Home(){
 
     
     useEffect(()=> {
-        fetch('https://jawadhakimee.github.io/JsonFile/db.json').then(res=>res.json()).then(data=>setData(data.data))
+        fetch('https://jawadhakimee.github.io/JsonFile/db.json').then(res=>res.json()).then(data=>setData(data.data.data))
 
     },[]);
 
