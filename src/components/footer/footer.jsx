@@ -26,13 +26,13 @@ function footer(){
             </div>
             <div className={styled.footerSection}>
               <h3>Follow Us</h3>
-              <a href='google.com'  target="_blank" rel="noreferrer" className={styled.socialIcon}>
+              <a href='google.com'  target="_blank" rel="noopener noreferrer" className={styled.socialIcon}>
                 <FontAwesomeIcon icon={faFacebookF} />
               </a>
-              <a href='google.com' target="_blank" rel="noreferrer" className={styled.socialIcon}>
+              <a href='google.com' target="_blank" rel="noopener noreferrer" className={styled.socialIcon}>
                 <FontAwesomeIcon icon={faTwitter} />
               </a>
-              <a href='google.com' target="_blank" rel="noreferrer" className={styled.socialIcon}>
+              <a href='google.com' target="_blank" rel="noopener noreferrer" className={styled.socialIcon}>
                 <FontAwesomeIcon icon={faInstagram} />
               </a>
               <p>&copy; 2024 Example Company. All rights reserved.</p>
