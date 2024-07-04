@@ -48,7 +48,7 @@ function About(){
               <p className={styled.acwDescription}>
                 If you're interested in getting involved with the Afghanistan Code Weekend community, there are several ways you can participate, such as attending events, volunteering as a mentor, collaborating on community projects, or supporting the community's initiatives.
               </p>
-              <a href="google.com" className={styled.acwCta}>Learn More</a>
+              <a href="https://codeweekend.net/" target='_blank' className={styled.acwCta}>Learn More</a>
             </div>
           </div>
         </div>  
