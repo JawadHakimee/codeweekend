@@ -1,55 +1,56 @@
+/* acwContainer Styles */
 .acwContainer {
     max-width: 1200px;
     margin: 0 auto;
     padding: 40px 20px;
     font-family: 'Roboto', sans-serif;
-}
+  }
   
-.acwTitle {
+  .acwTitle {
     font-size: 48px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 40px;
     color: #1E90FF;
-}
+  }
   
-.acwSectionTitle {
+  .acwSectionTitle {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 20px;
     color: #2C3E50;
   }
   
-.acwDescription {
+  .acwDescription {
     font-size: 16px;
     line-height: 1.6;
     margin-bottom: 30px;
     color: #7F8C8D;
-}
+  }
   
-.acwInitiativesList {
+  .acwInitiativesList {
     list-style-type: none;
     padding: 0;
   }
   
-.acwInitiativeItem {
+  .acwInitiativeItem {
     margin-bottom: 40px;
-}
+  }
   
-.acwInitiativeTitle {
+  .acwInitiativeTitle {
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 10px;
     color: #2980B9;
-}
+  }
   
-.acwInitiativeDescription {
+  .acwInitiativeDescription {
     font-size: 16px;
     line-height: 1.6;
     color: #7F8C8D;
-}
+  }
   
-.acwCta {
+  .acwCta {
     display: inline-block;
     background-color: #1E90FF;
     color: #fff;
@@ -58,9 +59,103 @@
     border-radius: 4px;
     font-size: 16px;
     transition: background-color 0.3s ease;
-}
+  }
   
-.acwCta:hover {
+  .acwCta:hover {
     background-color: #1874CD;
-}
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .acwContainer {
+      padding: 20px;
+    }
+  
+    .acwTitle {
+      font-size: 36px;
+      margin-bottom: 30px;
+    }
+  
+    .acwSectionTitle {
+      font-size: 20px;
+    }
+  
+    .acwDescription {
+      font-size: 14px;
+    }
+  
+    .acwInitiativeTitle {
+      font-size: 18px;
+    }
+  
+    .acwInitiativeDescription {
+      font-size: 14px;
+    }
+  
+    .acwCta {
+      font-size: 14px;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1200px) {
+    .acwContainer {
+      padding: 30px;
+    }
+  
+    .acwTitle {
+      font-size: 42px;
+      margin-bottom: 35px;
+    }
+  
+    .acwSectionTitle {
+      font-size: 22px;
+    }
+  
+    .acwDescription {
+      font-size: 15px;
+    }
+  
+    .acwInitiativeTitle {
+      font-size: 19px;
+    }
+  
+    .acwInitiativeDescription {
+      font-size: 15px;
+    }
+  
+    .acwCta {
+      font-size: 15px;
+    }
+  }
+  
+  @media (min-width: 1201px) {
+    .acwContainer {
+      padding: 40px 20px;
+    }
+  
+    .acwTitle {
+      font-size: 48px;
+      margin-bottom: 40px;
+    }
+  
+    .acwSectionTitle {
+      font-size: 24px;
+    }
+  
+    .acwDescription {
+      font-size: 16px;
+    }
+  
+    .acwInitiativeTitle {
+      font-size: 20px;
+    }
+  
+    .acwInitiativeDescription {
+      font-size: 16px;
+    }
+  
+    .acwCta {
+      font-size: 16px;
+    }
+  }
   

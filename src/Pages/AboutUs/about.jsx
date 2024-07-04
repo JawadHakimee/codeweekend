@@ -1,7 +1,8 @@
-
 import React from 'react'
 import styled from './about.module.css'
 import Navbar from '../../components/navbor/Navbar';
+import Footer from '../../components/footer/footer';
+
 
 
 function About(){
@@ -52,6 +53,10 @@ function About(){
             </div>
           </div>
         </div>  
+        
+        <div>
+          <Footer />
+        </div>
       </div>
     )
 }
