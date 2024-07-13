@@ -9,7 +9,7 @@ function Navbar(props){
             <nav>
             <div className={styled.Container}>
                 <ul className={styled.navMenu}>
-                <h2>Code Weekend Members 2024</h2>
+                <h2>CodeWeekend Members 2024</h2>
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/about">About</Link></li>
                     <li><Link to='/contact'>Contact</Link></li>

@@ -12,7 +12,7 @@ function About(){
       
           <div className={styled.acwContainer}>
             
-          <h1 className={styled.acwTitle}>Afghanistan Code Weekend Community</h1>
+          <h1 className={styled.acwTitle}>Afghanistan CodeWeekend Community</h1>
           <div className="acw-content">
             <div className="acw-about">
               <h2 className={styled.acwSectionTitle}>About the Community</h2>
